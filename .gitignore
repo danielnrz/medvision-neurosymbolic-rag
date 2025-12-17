@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Data / artifacts (keep small artifacts you explicitly want)
+data/
+dataset/
+Dataset/
+ProcessedDataset/
+*.edf
+*.nii
+*.nii.gz
+
+# Large binaries
+*.zip
+*.tar
+*.gz
