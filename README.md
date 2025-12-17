@@ -34,9 +34,7 @@ A snapshot of the final Streamlit dashboard is available in `FinalDashboard.pdf`
 
 ---
 
-## Screenshots
-
-### Notebook visuals (selected)
+## Visuals
 
 ![Concept space (PCA)](assets/notebook_viz/nb_fig_01.png)
 
